@@ -13,4 +13,4 @@ resource "azurerm_resource_group" "module" {
     environment = "dev"
     owner       = "Andreas Storlien"
   }
-
+}
